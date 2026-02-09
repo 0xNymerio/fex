@@ -1,0 +1,2 @@
+# CrowdStrike Falcon SDK for Python (Hosts, RTR)
+crowdstrike-falconpy>=1.0.0
